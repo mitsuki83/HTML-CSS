@@ -1,2 +1,5 @@
 # HTML-CSS
-HTML/CSSの練習
+HTML / CSS
+It is the content that I practiced using the reference book
+
+
